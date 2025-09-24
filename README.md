@@ -1,2 +1,2 @@
 # hbd.index.html
-A birthday live Html for your bestfriend.
+A birthday live Html for your best friend.
