@@ -126,15 +126,21 @@
     </div>
 
     <div class="letter-content" id="letter">
-        <h1>Dear Sreynou,</h1>
+        <h1>Dear Bunly,</h1>
         <div>
-           HAPPY BIRTHDAY TO YOU, my friend. I specially made this code for you, hope you like it though. I wish you a year of glorious, success, and happiness. Enjoy your life to the best, I look forward to walking with you on this journey of life, buddy.
+            I don’t know if you ever get to read this but I genuinely hope you do since I put quite a lot of effort into this.  
+            I don’t think you even remember my existence since it’s been some time since we broke up. I know we’re out of time and I know there’s a slim chance of us turning the table. Yet, somehow I still couldn’t give myself the closure I needed.  
+
+            I just want to check up on you a little bit because it seems like you aren’t doing well. Actually I’ve been checking your reposts and I noticed you’ve been down these few days. I hope you’re doing okay. Don’t ever let negativity get you in however state and problem you’re in.
+
+            Anyway, I hope your teeth and head are doing better now. Fighting and take care, dear!
         </div>
         <div class="closing">
-            Your friend,<br/>
+            With love,<br/>
             &nbsp;&nbsp;&nbsp;&nbsp;Sey
         </div>
     </div>
+
     <!-- Hidden YouTube Music Embed -->
     <div id="youtubePlayer" style="display:none;"></div>
 </div>
